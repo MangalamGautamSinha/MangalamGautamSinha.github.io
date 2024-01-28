@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Neutral background color */
+    background-color: #f0f0f0;
 }
 
 nav {
@@ -14,7 +14,7 @@ nav {
     top: 0;
     bottom: 0;
     left: 0;
-    overflow-y: auto; /* Enable vertical scroll if needed */
+    overflow-y: auto;
 }
 
 nav ul {
@@ -30,7 +30,7 @@ nav ul li a {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    font-size: 18px; /* Larger font size */
+    font-size: 18px;
 }
 
 .container {
@@ -39,18 +39,18 @@ nav ul li a {
 }
 
 .content {
-    margin-left: 170px; /* Adjusted for the navigation menu width */
+    margin-left: 170px;
 }
 
 header {
-    padding-top: 50px; /* Adjusted for the profile photo */
+    padding-top: 50px;
     text-align: center;
 }
 
 .profile-photo {
     width: 150px;
     height: 150px;
-    border-radius: 50%; /* Rounded profile photo */
+    border-radius: 50%;
     margin-bottom: 20px;
 }
 
